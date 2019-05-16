@@ -5,13 +5,37 @@ This Repository contains my checks on the linked list. Most of the code is java.
 
 # Definition
 
-A linkedlist is structure that is composed to list nodes. A list node contains the some data as well as a pointer to the next node. In this repository we use the following defination of a node in 
-
+A linkedlist is structure that is composed to list nodes. A list node contains the some data as well as a pointer to the next node. In this repository we use the following defination of a node in c
 ```
 struct node {
-int data,
+int data;
 strruct node *next;
 } 
 
 ```
 
+
+In java code, unless mentioned otherwise we definate a node as 
+```
+class Node{
+	private int data;
+	private Node next;
+
+	public Node(int data){
+	this.data = data;
+	this.next = null;
+	}
+
+	public int getData(){
+		return data;
+	}
+	
+	public Node getNext(){
+		return next;
+	}
+	
+	public void setData(Node next){
+		this.next = next;
+	}
+}
+```

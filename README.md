@@ -39,3 +39,10 @@ class Node{
 	}
 }
 ```
+
+
+#Operations 
+
+## Insert into a LinkedList
+	In this program we will insert an element into a linked list. The element inserted will be the last element of the linked list.
+ 

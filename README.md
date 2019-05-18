@@ -46,4 +46,8 @@ class Node{
 ## Insert into a LinkedList
 
 In this program we will insert an element into a linked list. The element inserted will be the last element of the linked list.
+
+## Insert elements into LinkedList sorted
+
+In this program we insert the element sorted into a linked list. The linked list will be sorted after the insert.
  

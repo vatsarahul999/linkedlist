@@ -9,7 +9,7 @@ A linkedlist is structure that is composed to list nodes. A list node contains t
 ```
 struct node {
 int data;
-strruct node *next;
+struct node *next;
 } 
 
 ```

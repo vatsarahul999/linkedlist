@@ -50,4 +50,7 @@ In this program we will insert an element into a linked list. The element insert
 ## Insert elements into LinkedList sorted
 
 In this program we insert the element sorted into a linked list. The linked list will be sorted after the insert.
- 
+
+## Remove an element from a LinkedList
+
+In this program, we remove the element from a linked list. 
